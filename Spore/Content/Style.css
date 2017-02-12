@@ -1,0 +1,168 @@
+﻿body {
+}
+
+.align-center {
+    text-align: center;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+/*Header*/
+
+.header {
+    background-color: #353535;
+    padding: 5px 0px;
+}
+
+.header p {
+    color: #fff;
+    font-size: 13px;
+    margin: 0px;
+}
+.header i {
+    margin-right: 8px;
+}
+
+/*Navigation*/
+
+.navbar{
+    background-color: #fff !important;
+    border: none;
+    margin-top: 20px;
+}
+
+.nav {
+    margin-top: 25px;
+}
+
+.navbar-toggle {
+    margin-top: 35px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #353535;
+    font-weight: 700;
+    padding-right: 50px;
+}
+
+.navbar-nav > li > a:hover {
+    color: #808080 !important;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: black !important;
+}
+
+.navbar-inverse .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: transparent !important;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+/* END of navigation*/
+
+.icon-area { 
+    background-color: #353535;
+}
+
+.icon-area .col-md-2 {
+    text-align: center;
+    height: 200px;
+}
+
+.icon-area img {
+    margin-top: 20px;
+}
+
+.icon-area p {
+    color: #fff;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.wrapper-btn-learnmore {
+    padding-top: 10px;
+    height: 75px;
+    text-align: center;
+}
+
+.btn-learnmore {
+    border: 2px solid #fff;
+    border-radius: 2px;
+    padding: 15px 10px;
+    background-color: transparent;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.btn-learnmore:hover {
+    color: #94b6df;
+    text-decoration: none;
+    box-shadow: #fff 1px 1px 3px inset;
+}
+
+.divider-white {
+    height: 300px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.img-holder-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.img-holder {
+    border:2px solid red;
+    padding: 0px;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.img-holder img, .services-h3 {
+    transition: opacity 0.4s ease-in-out;
+}
+
+.img-holder .services-h3 {
+    visibility: hidden;
+    opacity: 0;
+}
+
+.services-h3 {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: table;
+}
+
+.services-h3 div {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 20%;
+}
+
+.img-holder:hover img {
+    opacity: 0;
+}
+
+.img-holder:hover .services-h3 {
+    opacity: 1;
+    visibility: visible;
+    text-align: center;
+    vertical-align: middle;
+}

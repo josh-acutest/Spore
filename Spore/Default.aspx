@@ -2,41 +2,67 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+
+    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1920%C3%97700&w=1920&h=700" />
+
+    <div class="icon-area">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
+
+                    </div>
+                    <div class="col-md-2">
+                        <img src="Images/icon-block.png" />
+                        <p>Specification</p>
+                    </div>
+
+                    <div class="col-md-2">
+                        <img src="Images/icon-globe.png" />
+                        <p>Design</p>
+                    </div>
+
+                    <div class="col-md-2">
+                        <img src="Images/icon-rotate.png" />
+                        <p>Construction</p>
+                    </div>
+
+                    <div class="col-md-2">
+                        <img src="Images/icon-rocket.png" />
+                        <p>Launch</p>
+                    </div>
+
+                    <div class="col-md-2">
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 wrapper-btn-learnmore">
+                        <a href="#" class="btn-learnmore">
+                            Learn More
+                        </a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+    <div class="divider-white">
     </div>
 
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Getting started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
+    <div class="container-fluid">
+        <div class="col-xs-4 no-padding">
+            <div class="img-holder-wrapper">
+                <div class="img-holder">
+                    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=480%C3%97400&w=480&h=400" />
+                    <h3 class="services-h3">This is text.</h3>
+                    
+                </div>
+            </div>
         </div>
     </div>
+    
 
 </asp:Content>
