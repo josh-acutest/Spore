@@ -124,7 +124,6 @@
 }
 
 .img-holder {
-    border:2px solid red;
     padding: 0px;
     position: relative;
     height: 100%;
@@ -132,37 +131,58 @@
     overflow: hidden;
 }
 
-.img-holder img, .services-h3 {
+.img-holder img, .services-box {
     transition: opacity 0.4s ease-in-out;
 }
 
-.img-holder .services-h3 {
+.img-holder .services-box {
     visibility: hidden;
     opacity: 0;
 }
 
-.services-h3 {
+.img-holder {
+    background-color: #353535;
+}
+
+.services-box {
     position: absolute;
-    top: 30%;
+    top: 15%;
     width: 100%;
     height: 100%;
     text-align: center;
     display: table;
 }
 
-.services-h3 div {
-    display: table-cell;
-    vertical-align: middle;
-    padding: 0 20%;
+.services-box h3 {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.services-box p {
+    color: #fff;
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.divider-black-sm {
+    width: 80%;
+    height:2px;
+    background-color: #fff;
+    margin: 0 auto;
 }
 
 .img-holder:hover img {
-    opacity: 0;
+    opacity: 0.2;
 }
 
-.img-holder:hover .services-h3 {
-    opacity: 1;
+.img-holder:hover {
+
+}
+
+.img-holder:hover .services-box {
+    opacity: 0.8;
     visibility: visible;
     text-align: center;
     vertical-align: middle;
 }
+

@@ -53,15 +53,84 @@
     </div>
 
     <div class="container-fluid">
-        <div class="col-xs-4 no-padding">
+        <div class="col-sm-4 col-xs-6 no-padding">
             <div class="img-holder-wrapper">
                 <div class="img-holder">
-                    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=480%C3%97400&w=480&h=400" />
-                    <h3 class="services-h3">This is text.</h3>
-                    
+                    <img class="img-responsive" src="http://media.istockphoto.com/photos/dramatic-american-football-stadium-picture-id530810426?k=6&m=530810426&s=170667a&w=0&h=tS57lXHvmSPyJ7Su8kpoxEr6coWjwZ9sglM7n0fSUuQ=" />
+                        <div class="services-box">
+                            <h3>Web Design</h3>
+                            <div class="divider-black-sm"></div>
+                            <p>This is the p tag</p>
+                        </div>
                 </div>
             </div>
         </div>
+
+         <div class="col-sm-4 col-xs-6 no-padding">
+            <div class="img-holder-wrapper">
+                <div class="img-holder">
+                    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=480%C3%97400&w=480&h=400" />
+                        <div class="services-box">
+                            <h3>Web Design</h3>
+                            <div class="divider-black-sm"></div>
+                            <p>This is the p tag</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4 col-xs-6 no-padding">
+            <div class="img-holder-wrapper">
+                <div class="img-holder">
+                    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=480%C3%97400&w=480&h=400" />
+                        <div class="services-box">
+                            <h3>Web Design</h3>
+                            <div class="divider-black-sm"></div>
+                            <p>This is the p tag</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4 col-xs-6 no-padding">
+            <div class="img-holder-wrapper">
+                <div class="img-holder">
+                    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=480%C3%97400&w=480&h=400" />
+                        <div class="services-box">
+                            <h3>Web Design</h3>
+                            <div class="divider-black-sm"></div>
+                            <p>This is the p tag</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4 col-xs-6 no-padding">
+            <div class="img-holder-wrapper">
+                <div class="img-holder">
+                    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=480%C3%97400&w=480&h=400" />
+                        <div class="services-box">
+                            <h3>Web Design</h3>
+                            <div class="divider-black-sm"></div>
+                            <p>This is the p tag</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4 col-xs-6 no-padding">
+            <div class="img-holder-wrapper">
+                <div class="img-holder">
+                    <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=480%C3%97400&w=480&h=400" />
+                        <div class="services-box">
+                            <h3>Web Design</h3>
+                            <div class="divider-black-sm"></div>
+                            <p>This is the p tag</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+
     </div>
     
 
