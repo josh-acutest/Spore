@@ -181,11 +181,17 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Images\analytics.jpg" />
+    <Content Include="Images\hosting.jpg" />
     <Content Include="Images\icon-block.png" />
     <Content Include="Images\icon-globe.png" />
     <Content Include="Images\icon-rocket.png" />
     <Content Include="Images\icon-rotate.png" />
+    <Content Include="Images\logo-design.jpg" />
+    <Content Include="Images\marketing.jpg" />
+    <Content Include="Images\seo.jpg" />
     <Content Include="Images\Spore_Logo.png" />
+    <Content Include="Images\webdesign.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

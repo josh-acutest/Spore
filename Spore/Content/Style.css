@@ -9,7 +9,18 @@
     padding: 0px;
 }
 
+.no-margin {
+    margin: 0px;
+}
+
+
 /*Header*/
+
+@media screen and (max-width:700px){
+    .header col-md-4 {
+        float: none !important;
+    }
+}
 
 .header {
     background-color: #353535;
@@ -67,18 +78,19 @@
 }
 
 .navbar .navbar-collapse {
-  text-align: center;
+    text-align: center;
 }
+
 
 /* END of navigation*/
 
 .icon-area { 
     background-color: #353535;
+    padding: 30px 0px;
 }
 
 .icon-area .col-md-2 {
     text-align: center;
-    height: 200px;
 }
 
 .icon-area img {
@@ -92,9 +104,9 @@
 }
 
 .wrapper-btn-learnmore {
-    padding-top: 10px;
     height: 75px;
     text-align: center;
+    padding: 50px 0px;
 }
 
 .btn-learnmore {
@@ -104,7 +116,7 @@
     background-color: transparent;
     color: #fff;
     text-transform: uppercase;
-}
+ }
 
 .btn-learnmore:hover {
     color: #94b6df;
@@ -151,6 +163,7 @@
     height: 100%;
     text-align: center;
     display: table;
+    padding: 10px;
 }
 
 .services-box h3 {
@@ -160,8 +173,12 @@
 
 .services-box p {
     color: #fff;
+    margin-top: 15px;
+}
+
+.services-box span {
     font-style: italic;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .divider-black-sm {
@@ -175,10 +192,6 @@
     opacity: 0.2;
 }
 
-.img-holder:hover {
-
-}
-
 .img-holder:hover .services-box {
     opacity: 0.8;
     visibility: visible;
@@ -186,3 +199,21 @@
     vertical-align: middle;
 }
 
+.box-steps {
+    border: 3px solid #333333;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.box-steps i {
+    margin-top: -30px;
+    font-size: 30px;
+    color: #94b6df;
+}
+
+
+.box-steps-header {
+    width: 100%;
+    background-color: #94b6df;
+    color: #fff;
+}
