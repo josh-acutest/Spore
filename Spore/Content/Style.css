@@ -201,19 +201,22 @@
 
 .box-steps {
     border: 3px solid #333333;
-    border-radius: 4px;
     text-align: center;
+    background-color: #fff;
 }
 
 .box-steps i {
-    margin-top: -30px;
     font-size: 30px;
     color: #94b6df;
 }
 
-
 .box-steps-header {
     width: 100%;
-    background-color: #94b6df;
+    height: 240px;
+    background-color: #353535;
     color: #fff;
+    padding-top: 15px;
+    text-align: center;
+    overflow:hidden;
 }
+

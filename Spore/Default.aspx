@@ -160,9 +160,11 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="box-steps">
-                        <i class="glyphicon glyphicon-home"></i>
-                        <div class="box-steps-header"><h4>Step 1</h4></div>
-                        <p>this is text</p>
+                        <div class="box-steps-header">
+                            <h4>Step 1</h4>
+                            <p>Specification</p>
+                                
+                        </div>
                     </div>
                 </div>
             </div>
