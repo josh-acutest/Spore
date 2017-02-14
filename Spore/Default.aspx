@@ -55,10 +55,10 @@
 
     <div class="container-fluid">
         <div class="row no-margin">
-            <div class="col-sm-4 col-xs-12 no-padding">
+            <div class="col-md-4 col-sm-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
-                        <img class="img-responsive" src="/images/webdesign.png" />
+                        <img class="img-responsive" src="/images/img-test.jpg" />
                             <div class="services-box">
                                 <h3>Web Design</h3>
                                 <div class="divider-black-sm"></div>
@@ -158,17 +158,77 @@
     <div class="container-fluid">
         <div class="container">
             <div class="row">
+            
+                
                 <div class="col-md-3">
                     <div class="box-steps">
                         <div class="box-steps-header">
-                            <h4>Step 1</h4>
-                            <p>Specification</p>
-                                
+                            <p>Step 1</p>
+                            <h4>Specification</h4>
+                        </div>
+                        <div class="box-steps-body">
+                            <p>Tell us what you need.</p>
+                            <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
+                                touch-up on your current website.
+                            </p>
+                            <p>Tell us all your requirements and get yourself a free quote.</p>
+                            <p>Remember, <strong>you pay nothing until the work is done.</strong></p>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="col-md-3">
+                    <div class="box-steps">
+                        <div class="box-steps-header">
+                            <p>Step 2</p>
+                            <h4>Design</h4>
+                        </div>
+                        <div class="box-steps-body">
+                            <p>We design with you in mind.</p>
+                            <p>The website/material you select will reflect your business in order to 
+                                represent your brand.</p>
+                            <p>You will be the person to sign off the designs. Want something changed? Not a problem.
+                            <p>We aim to provide a hassle free service.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box-steps">
+                        <div class="box-steps-header">
+                            <p>Step 3</p>
+                            <h4>Construction</h4>
+                        </div>
+                        <div class="box-steps-body">
+                            <p>The construction process begins when you sign off on the design.</p>
+                            <p>You will be regularly updated during the process, allowing you to make last minute changes and overview
+                                the progress.</p>
+                            <p>The time taken for this step to be complete will vary depending on the package selected.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box-steps">
+                        <div class="box-steps-header">
+                            <p>Step 4</p>
+                            <h4>Launch</h4>
+                        </div>
+                        <div class="box-steps-body">
+                            <p>This is the final step.</p>
+                            <p>Your product will be finalised. Your website will be launched.</p>
+                            <p>This stage will be completed when you're happy with your products and payment will then be completed.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
+    <div class="divider-white">
+    
+    </div>
+
+    
 
 </asp:Content>

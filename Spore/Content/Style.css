@@ -158,7 +158,7 @@
 
 .services-box {
     position: absolute;
-    top: 15%;
+    top: 5%;
     width: 100%;
     height: 100%;
     text-align: center;
@@ -200,9 +200,11 @@
 }
 
 .box-steps {
-    border: 3px solid #333333;
+    border: 2px solid #333333;
+    border-radius: 2px;
     text-align: center;
     background-color: #fff;
+    height: 400px;
 }
 
 .box-steps i {
@@ -212,11 +214,22 @@
 
 .box-steps-header {
     width: 100%;
-    height: 240px;
-    background-color: #353535;
     color: #fff;
-    padding-top: 15px;
+    padding: 10px 0px;
     text-align: center;
-    overflow:hidden;
+    background-color: #353535;
 }
 
+.box-steps-header h4 {
+    font-size: 22px;
+}
+
+.box-steps-body {
+    padding: 20px 10px 0px 10px;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #353535;
+    color: #808080;
+}

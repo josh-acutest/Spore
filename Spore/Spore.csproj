@@ -187,7 +187,9 @@
     <Content Include="Images\icon-globe.png" />
     <Content Include="Images\icon-rocket.png" />
     <Content Include="Images\icon-rotate.png" />
+    <Content Include="Images\img-test.jpg" />
     <Content Include="Images\logo-design.jpg" />
+    <Content Include="Images\logo.jpg" />
     <Content Include="Images\marketing.jpg" />
     <Content Include="Images\seo.jpg" />
     <Content Include="Images\Spore_Logo.png" />
