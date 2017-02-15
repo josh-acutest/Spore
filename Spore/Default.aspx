@@ -55,7 +55,7 @@
 
     <div class="container-fluid">
         <div class="row no-margin">
-            <div class="col-md-4 col-sm-12 no-padding">
+            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
                         <img class="img-responsive" src="/images/img-test.jpg" />
@@ -71,7 +71,7 @@
                 </div>
             </div>
          
-            <div class="col-sm-4 col-xs-12 no-padding">
+            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
                         <img class="img-responsive" src="/images/logo-design.jpg" />
@@ -87,7 +87,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-4 col-xs-12 no-padding">
+            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
                         <img class="img-responsive" src="/images/seo.jpg" />
@@ -102,7 +102,7 @@
                 </div>
             </div>
         
-             <div class="col-sm-4 col-xs-12 no-padding">
+             <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
                         <img class="img-responsive" src="/images/analytics.jpg" />
@@ -118,7 +118,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-4 col-xs-12 no-padding">
+            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
                         <img class="img-responsive" src="/images/marketing.jpg" />
@@ -134,7 +134,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-4 col-xs-12 no-padding">
+            <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
                         <img class="img-responsive" src="/images/hosting.jpg" />
@@ -153,7 +153,24 @@
     
     <div class="divider-white">
     </div>    
-    
+
+    <div class="steps-main">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+         
+    <div class="divider-white">
+
+    </div>
+
 
     <div class="container-fluid">
         <div class="container">
