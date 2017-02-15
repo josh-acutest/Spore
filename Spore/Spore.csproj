@@ -180,20 +180,19 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
+    <None Include="Properties\PublishProfiles\live.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Images\analytics.jpg" />
-    <Content Include="Images\hosting.jpg" />
+    <Content Include="Images\analytics-min.jpg" />
+    <Content Include="Images\hosting-min.jpg" />
     <Content Include="Images\icon-block.png" />
     <Content Include="Images\icon-globe.png" />
     <Content Include="Images\icon-rocket.png" />
     <Content Include="Images\icon-rotate.png" />
-    <Content Include="Images\img-test.jpg" />
-    <Content Include="Images\logo-design.jpg" />
-    <Content Include="Images\logo.jpg" />
-    <Content Include="Images\marketing.jpg" />
-    <Content Include="Images\seo.jpg" />
+    <Content Include="Images\logo-design-min.jpg" />
+    <Content Include="Images\marketing-min.jpg" />
+    <Content Include="Images\seo-min.jpg" />
     <Content Include="Images\Spore_Logo.png" />
-    <Content Include="Images\webdesign.png" />
+    <Content Include="Images\webdesign-min.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -227,13 +226,11 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
-    <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
-    <Content Include="Site.Mobile.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -384,21 +381,7 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
-    <Compile Include="Site.Mobile.Master.cs">
-      <DependentUpon>Site.Mobile.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Site.Mobile.Master.designer.cs">
-      <DependentUpon>Site.Mobile.Master</DependentUpon>
-    </Compile>
     <Compile Include="Startup.cs" />
-    <Compile Include="ViewSwitcher.ascx.cs">
-      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ViewSwitcher.ascx.designer.cs">
-      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

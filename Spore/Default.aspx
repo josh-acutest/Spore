@@ -58,7 +58,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
-                        <img class="img-responsive" src="/images/img-test.jpg" />
+                        <img class="img-responsive" src="/images/webdesign-min.jpg" />
                             <div class="services-box">
                                 <h3>Web Design</h3>
                                 <div class="divider-black-sm"></div>
@@ -74,7 +74,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
-                        <img class="img-responsive" src="/images/logo-design.jpg" />
+                        <img class="img-responsive" src="/images/logo-design-min.jpg" />
                             <div class="services-box">
                                 <h3>Logo Design</h3>
                                 <div class="divider-black-sm"></div>
@@ -90,12 +90,12 @@
             <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
-                        <img class="img-responsive" src="/images/seo.jpg" />
+                        <img class="img-responsive" src="/images/seo-min.jpg" />
                             <div class="services-box">
                                 <h3>SEO</h3>
                                 <div class="divider-black-sm"></div>
-                                <span><p>Search Engine Optimisation</p></span>
-                                <p>We build your websites with seo, helping your business to become a an online powerhouse 
+                                <p>Search Engine Optimisation</p>
+                                <p>We build your websites with seo, helping your business to become an online powerhouse 
                                     in search engines.</p>
                             </div>
                     </div>
@@ -105,7 +105,7 @@
              <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
-                        <img class="img-responsive" src="/images/analytics.jpg" />
+                        <img class="img-responsive" src="/images/analytics-min.jpg" />
                             <div class="services-box">
                                 <h3>Analytics</h3>
                                 <div class="divider-black-sm"></div>
@@ -121,7 +121,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
-                        <img class="img-responsive" src="/images/marketing.jpg" />
+                        <img class="img-responsive" src="/images/marketing-min.jpg" />
                             <div class="services-box">
                                 <h3>Marketing</h3>
                                 <div class="divider-black-sm"></div>
@@ -137,7 +137,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 no-padding">
                 <div class="img-holder-wrapper">
                     <div class="img-holder">
-                        <img class="img-responsive" src="/images/hosting.jpg" />
+                        <img class="img-responsive" src="/images/hosting-min.jpg" />
                             <div class="services-box">
                                 <h3>Hosting</h3>
                                 <div class="divider-black-sm"></div>
@@ -158,21 +158,64 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-sm-3">
+                        <div class="divider-sm-white"></div>
+                        <h5>Steps</h5>
+                        <p>This section shows how we work with clients.</p>
+                        <p>The process is broken down into 3 simple steps. <strong>Specification, Design, Launch.</strong></p>
+                    </div>
+                    <div class="col-sm-3 col-xs-6 steps-section">
+                        
+                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                    
+                    <div class="steps-body">
+                        <h4>Specification</h4>
+                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
+                            touch-up on your current website.</p>
+                        
+                        <p>Tell us all your requirements and get yourself a free quote.</p>
+                    </div>
 
                     </div>
+
+                    <div class="col-sm-3 col-xs-6 steps-section">
+                        
+                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                    
+                    <div class="steps-body">
+                        <h4>Specification</h4>
+                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
+                            touch-up on your current website.</p>
+                        
+                        <p>Tell us all your requirements and get yourself a free quote.</p>
+                    </div>
+
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6 steps-section">
+                        
+                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                    
+                    <div class="steps-body">
+                        <h4>Specification</h4>
+                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
+                            touch-up on your current website.</p>
+                        
+                        <p>Tell us all your requirements and get yourself a free quote.</p>
+                    </div>
+
+                    </div>
+
                 </div>
             </div>
         </div>
     </div>
         
-         
-    <div class="divider-white">
+       <div class="divider-white">
 
-    </div>
+       </div>
 
-
-    <div class="container-fluid">
+<%--    <div class="container-fluid">
         <div class="container">
             <div class="row">
             
@@ -245,7 +288,7 @@
     <div class="divider-white">
     
     </div>
-
+--%>
     
 
 </asp:Content>
