@@ -157,14 +157,28 @@
     <div class="steps-main">
         <div class="container-fluid">
             <div class="container">
-                <div class="row">
-                    <div class="col-sm-3">
+                <div class="row mobile-center">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="divider-sm-white"></div>
                         <h5>Steps</h5>
                         <p>This section shows how we work with clients.</p>
                         <p>The process is broken down into 3 simple steps. <strong>Specification, Design, Launch.</strong></p>
                     </div>
-                    <div class="col-sm-3 col-xs-6 steps-section">
+                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
+                        
+                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=700%C3%97300&w=700&h=300" class="img-responsive no-margin" />
+                    
+                    <div class="steps-body">
+                        <h4>Specification</h4>
+                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
+                            touch-up on your current website.</p>
+                        
+                        <p>Tell us all your requirements and get yourself a free quote.</p>
+                    </div>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
                         
                         <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
                     
@@ -178,21 +192,7 @@
 
                     </div>
 
-                    <div class="col-sm-3 col-xs-6 steps-section">
-                        
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
-                    
-                    <div class="steps-body">
-                        <h4>Specification</h4>
-                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
-                            touch-up on your current website.</p>
-                        
-                        <p>Tell us all your requirements and get yourself a free quote.</p>
-                    </div>
-
-                    </div>
-
-                    <div class="col-sm-3 col-xs-6 steps-section">
+                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
                         
                         <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
                     
