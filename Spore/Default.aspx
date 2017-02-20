@@ -3,7 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="container-fluid">
-        <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1920%C3%97700&w=1920&h=700" />
+        <img class="img-responsive" src="/images/banner-img.jpg" />
+        <%--<img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1920%C3%97700&w=1920&h=700" />--%>
     </div>
 
     
@@ -13,17 +14,17 @@
                     <div class="col-md-2 hide-mobile">
 
                     </div>
-                    <div class="col-md-2 border-right-dot">
+                    <div class="col-md-2">
                         <img src="Images/icon-block.png" />
                         <p>Specification</p>
                     </div>
 
-                    <div class="col-md-2 border-right-dot">
+                    <div class="col-md-2">
                         <img src="Images/icon-globe.png" />
                         <p>Design</p>
                     </div>
 
-                    <div class="col-md-2 border-right-dot">
+                    <div class="col-md-2">
                         <img src="Images/icon-rotate.png" />
                         <p>Construction</p>
                     </div>
@@ -81,48 +82,43 @@
                 <div class="row mobile-center">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="divider-sm-white"></div>
-                        <h5>Steps</h5>
-                        <p>This section shows how we work with clients.</p>
+                        <h5>How does it work?</h5>
+                        <p>This section shows how we work with clients to achieve their web design goals.</p>
                         <p>The process is broken down into 3 simple steps. <strong>Specification, Design, Launch.</strong></p>
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
-                        
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=700%C3%97300&w=700&h=300" class="img-responsive no-margin" />
-                    
-                    <div class="steps-body">
-                        <h4>Specification</h4>
-                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
-                            touch-up on your current website.</p>
-                        
-                        <p>Tell us all your requirements and get yourself a free quote.</p>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="steps-section">
+                            <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=700%C3%97300&w=700&h=300" class="img-responsive no-margin" />
+                            <div class="steps-body">
+                                <h4>Specification</h4>
+                                <p>Do you need a brand new website with a fresh design? Maybe you just need a 
+                                    touch-up on your current website.</p>
+                                <p>Tell us all your requirements and get yourself a free quote.</p>
+                            </div>
+                        </div>
                     </div>
 
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
-                        
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
-                    
-                    <div class="steps-body">
-                        <h4>Design</h4>
-                            <p>The website/material you select will reflect your business in order to 
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="steps-section">
+                            <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                            <div class="steps-body">
+                                <h4>Design</h4>
+                                <p>The website/material you select will reflect your business in order to 
                                 represent your brand.</p>
-                            <p>You will be the person to sign off the designs. Want something changed? Not a problem.
+                                <p>You will be the person to sign off the designs. Want something changed? Not a problem.
+                            </div>
+                        </div>
                     </div>
-
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
-                        
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
                     
-                    <div class="steps-body">
-                        <h4>Construction</h4>
-                        <p>The construction process begins when you sign off on the design.</p>
-                            <p>You will be regularly updated during the process, allowing you to make last minute changes and overview
-                                the progress.</p>
-                    </div>
-
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="steps-section">    
+                            <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                            <div class="steps-body">
+                                <h4>Construction</h4>
+                                <p>The construction process will begin when you sign off on the design that you will be sent.</p>
+                                <p>You will be regularly updated during the process, allowing you to overview the process.</p>
+                            </div>
+                        </div>
                     </div>
 
                 </div>

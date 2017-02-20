@@ -183,6 +183,7 @@
     <None Include="Properties\PublishProfiles\live.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Images\analytics-min.jpg" />
+    <Content Include="Images\banner-img.jpg" />
     <Content Include="Images\hosting-min.jpg" />
     <Content Include="Images\icon-block.png" />
     <Content Include="Images\icon-globe.png" />
