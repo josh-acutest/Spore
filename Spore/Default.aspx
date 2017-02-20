@@ -13,17 +13,17 @@
                     <div class="col-md-2 hide-mobile">
 
                     </div>
-                    <div class="col-md-2">
+                    <div class="col-md-2 border-right-dot">
                         <img src="Images/icon-block.png" />
                         <p>Specification</p>
                     </div>
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 border-right-dot">
                         <img src="Images/icon-globe.png" />
                         <p>Design</p>
                     </div>
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 border-right-dot">
                         <img src="Images/icon-rotate.png" />
                         <p>Construction</p>
                     </div>
@@ -38,20 +38,102 @@
                     </div>
                 </div>
 
-                <div class="row">
-                    <div class="col-md-12 wrapper-btn-learnmore">
-                        <a href="#" class="btn-learnmore">
-                            Learn More
-                        </a>
-                    </div>
-                </div>
+               
                 
             </div>
         </div>
-    
-    
-    <div class="divider-white">
+
+    <div class="welcome-area">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="divider-sm-white"></div>
+                            <h3>Welcome to Spore</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                                Pellentesque at consectetur ante, sit amet posuere turpis. 
+                                Fusce laoreet in augue sit amet dictum. Mauris vulputate leo at purus iaculis, et faucibus libero pharetra.
+                                In ornare mollis viverra. Morbi blandit mi cursus arcu aliquam, nec fringilla nibh tincidunt.</p>
+                            <p>Quisque rhoncus
+                                ullamcorper tempus. Praesent euismod ornare eros vitae pulvinar. Vivamus malesuada rutrum nunc non pretium. 
+                                Suspendisse suscipit diam in semper rutrum. Morbi ac leo a risus interdum laoreet. </p>
+                            <p class="mar-t-40">Quisque rhoncus
+                                ullamcorper tempus. Praesent euismod ornare eros vitae pulvinar. Vivamus malesuada rutrum nunc non pretium. 
+                                Suspendisse suscipit diam in semper rutrum. Morbi ac leo a risus interdum laoreet. </p>
+                            <p>
+                                <a href="#" class="btn btn-primary">Find out more</a>
+                            </p>
+                        </div>
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=920%C3%97700&w=920&h=900" />
+
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
+
+    
+    <div class="steps-main">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row mobile-center">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="divider-sm-white"></div>
+                        <h5>Steps</h5>
+                        <p>This section shows how we work with clients.</p>
+                        <p>The process is broken down into 3 simple steps. <strong>Specification, Design, Launch.</strong></p>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
+                        
+                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=700%C3%97300&w=700&h=300" class="img-responsive no-margin" />
+                    
+                    <div class="steps-body">
+                        <h4>Specification</h4>
+                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
+                            touch-up on your current website.</p>
+                        
+                        <p>Tell us all your requirements and get yourself a free quote.</p>
+                    </div>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
+                        
+                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                    
+                    <div class="steps-body">
+                        <h4>Design</h4>
+                            <p>The website/material you select will reflect your business in order to 
+                                represent your brand.</p>
+                            <p>You will be the person to sign off the designs. Want something changed? Not a problem.
+                    </div>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
+                        
+                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                    
+                    <div class="steps-body">
+                        <h4>Construction</h4>
+                        <p>The construction process begins when you sign off on the design.</p>
+                            <p>You will be regularly updated during the process, allowing you to make last minute changes and overview
+                                the progress.</p>
+                    </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+  
+    <div class="divider-small">
+
+    </div>
+    
 
     <div class="container-fluid">
         <div class="row no-margin">
@@ -151,69 +233,10 @@
     </div>
     
     
-    <div class="divider-white">
+    <div class="divider-small">
     </div>    
 
-    <div class="steps-main">
-        <div class="container-fluid">
-            <div class="container">
-                <div class="row mobile-center">
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="divider-sm-white"></div>
-                        <h5>Steps</h5>
-                        <p>This section shows how we work with clients.</p>
-                        <p>The process is broken down into 3 simple steps. <strong>Specification, Design, Launch.</strong></p>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
-                        
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=700%C3%97300&w=700&h=300" class="img-responsive no-margin" />
-                    
-                    <div class="steps-body">
-                        <h4>Specification</h4>
-                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
-                            touch-up on your current website.</p>
-                        
-                        <p>Tell us all your requirements and get yourself a free quote.</p>
-                    </div>
-
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
-                        
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
-                    
-                    <div class="steps-body">
-                        <h4>Specification</h4>
-                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
-                            touch-up on your current website.</p>
-                        
-                        <p>Tell us all your requirements and get yourself a free quote.</p>
-                    </div>
-
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 col-xs-12 steps-section">
-                        
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
-                    
-                    <div class="steps-body">
-                        <h4>Specification</h4>
-                        <p>Do you need a brand new website with a fresh design? Maybe you're just looking for a 
-                            touch-up on your current website.</p>
-                        
-                        <p>Tell us all your requirements and get yourself a free quote.</p>
-                    </div>
-
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-        
-       <div class="divider-white">
-
-       </div>
+    
 
 <%--    <div class="container-fluid">
         <div class="container">
