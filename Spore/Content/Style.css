@@ -260,7 +260,7 @@
 
 .footer-upper {
     background-color: #353535;
-    font-size: 36px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -270,7 +270,7 @@
 
 .footer-upper p {
     color: #fff;
-    font-size: 32px;
+    font-size: 26px;
     padding: 10px;
 }
 
@@ -278,6 +278,31 @@
     padding: 25px;
 }
 
+.footer-lower {
+    background-color: #191818;
+    padding-top: 15px;
+}
+
+.footer-lower p {
+    color:#fff;
+    font-weight: 700;
+}
+
+.footer-lower li { 
+    color: #808080;
+    list-style: none;
+}
+
+.grey-text {
+    color: #808080;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#inputEmail {
+    width: 300px;
+    height: 25px;
+}
 
 .steps-main {
     background-color: #353535;
@@ -320,6 +345,7 @@
 
 .steps-body h4 {
     color: #353535;
+    font-size: 20px;
 }
 
 .steps-section p {

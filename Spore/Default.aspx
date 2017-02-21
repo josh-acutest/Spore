@@ -66,8 +66,8 @@
                             </p>
                         </div>
                     <div class="col-md-4">
-                        <img class="img-responsive" src="/images/notepad.jpg" />
-
+                        
+                            
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="steps-section">
-                            <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=700%C3%97300&w=700&h=300" class="img-responsive no-margin" />
+                            <img src="/images/notepad.jpg" class="img-responsive no-margin" />
                             <div class="steps-body">
                                 <h4>Specification</h4>
                                 <p>Do you need a brand new website with a fresh design? Maybe you just need a 
@@ -100,7 +100,7 @@
 
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="steps-section">
-                            <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                            <img src="/images/design.jpg" class="img-responsive no-margin" />
                             <div class="steps-body">
                                 <h4>Design</h4>
                                 <p>The website/material you select will reflect your business in order to 
@@ -112,7 +112,7 @@
                     
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="steps-section">    
-                            <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150" class="img-responsive no-margin" />
+                            <img src="/images/construction.jpg" class="img-responsive no-margin" />
                             <div class="steps-body">
                                 <h4>Construction</h4>
                                 <p>The construction process will begin when you sign off on the design that you will be sent.</p>

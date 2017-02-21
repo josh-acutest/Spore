@@ -69,7 +69,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">
-                        <img src="Images/Spore_Logo.png" />
+                        <img class="img-responsive" src="Images/panda.jpg" />
                     </a>
                 </div>
                 <div class="navbar-collapse collapse">
@@ -107,7 +107,27 @@
 
     <div class="footer-lower">
         <div class="container-fluid">
-
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        
+                    </div>
+                    <div class="col-md-4">
+                        <p>Useful links</p>
+                        <ul>
+                            <li>Home</li>
+                            <li>About</li>
+                            <li>Portfolio</li>
+                            <li>Contact</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <p>Get in touch</p>
+                        <p><span class="grey-text">Feel free to ask a question.</span></p>
+                        <input class="form-control" id="inputEmail"  type="text" placeholder="enter email" />
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
