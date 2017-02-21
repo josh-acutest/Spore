@@ -30,7 +30,7 @@
 @media screen and (max-width:768px){
     .header p {
         visibility: hidden;
-        height: 10px;
+        height: 5px;
     }
 }
 
@@ -261,6 +261,7 @@
 .footer-upper {
     background-color: #353535;
     font-size: 36px;
+    text-align: center;
 }
 
 .footer-upper i {    

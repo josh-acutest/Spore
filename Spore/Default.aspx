@@ -66,7 +66,7 @@
                             </p>
                         </div>
                     <div class="col-md-4">
-                        <img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=920%C3%97700&w=920&h=900" />
+                        <img class="img-responsive" src="/images/notepad.jpg" />
 
                     </div>
                 </div>
