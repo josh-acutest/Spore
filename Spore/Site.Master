@@ -69,7 +69,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">
-                        <img class="img-responsive" src="Images/panda.jpg" />
+                        <img class="img-responsive" src="Images/panda_final.jpg" />
                     </a>
                 </div>
                 <div class="navbar-collapse collapse">
