@@ -182,8 +182,10 @@
     <Content Include="Account\Web.config" />
     <None Include="Properties\PublishProfiles\live.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Images\about-banner.jpg" />
     <Content Include="Images\analytics-min.jpg" />
     <Content Include="Images\banner-img.jpg" />
+    <Content Include="Images\bg-skyline.jpg" />
     <Content Include="Images\construction.jpg" />
     <Content Include="Images\design.jpg" />
     <Content Include="Images\hosting-min.jpg" />
@@ -195,6 +197,7 @@
     <Content Include="Images\marketing-min.jpg" />
     <Content Include="Images\notepad.jpg" />
     <Content Include="Images\panda.jpg" />
+    <Content Include="Images\panda_final.jpg" />
     <Content Include="Images\seo-min.jpg" />
     <Content Include="Images\Spore_Logo.png" />
     <Content Include="Images\webdesign-min.jpg" />
@@ -203,6 +206,7 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\MyScript.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\WebForms\DetailsView.js" />

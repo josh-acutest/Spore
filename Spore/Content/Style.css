@@ -17,6 +17,10 @@
     margin: 0px;
 }
 
+.mar-t-25 {
+    margin-top: 25px;
+}
+
 .mar-t-40 {
     margin-top: 80px;
 }
@@ -55,11 +59,10 @@
 .navbar{
     background-color: #fff !important;
     border: none;
-    margin-top: 20px;
 }
 
 .nav {
-    margin-top: 25px;
+    margin-top: 40px;
 }
 
 .navbar-toggle {
@@ -101,6 +104,7 @@
 .icon-area { 
     background-color: #353535;
     padding: 30px 0px;
+    border-bottom: 3px solid #53b9f9;
 }
 
 .icon-area .col-md-2 {
@@ -145,6 +149,10 @@
 .welcome-area .col-md-4 {
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+.welcome-area p {
+    font-size: 16px;
 }
 
 @media screen (max-width: 980px){
@@ -283,6 +291,7 @@
     padding-top: 15px;
 }
 
+
 .footer-lower p {
     color:#fff;
     font-weight: 700;
@@ -301,7 +310,6 @@
 
 #inputEmail {
     width: 300px;
-    height: 25px;
 }
 
 .steps-main {
@@ -329,7 +337,7 @@
 .divider-sm-white {
     width: 60px;
     height: 3px;
-    background-color: #94b6df;
+    background-color: #53b9f9;
     margin-bottom: 20px;
 }
 
@@ -379,3 +387,8 @@
         margin-top: 10px;
     }
 }
+
+.useful-links-ul {
+    padding: 5px;
+}
+

@@ -50,7 +50,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="pull-right">
-                            <p><i class="glyphicon glyphicon-envelope"></i> Contact@SporeWebDesign.co.uk</p>
+                            <p><i class="glyphicon glyphicon-envelope"></i> Contact@Panda-WebDesign.co.uk</p>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
-                        <p><i class="glyphicon glyphicon-envelope"></i> Contact@Spore.com</p>
+                        <p><i class="glyphicon glyphicon-envelope"></i> Contact@Panda-WebDesign.co.uk</p>
 
                     </div>
                     <div class="col-md-6 col-sm-12">
@@ -114,7 +114,7 @@
                     </div>
                     <div class="col-md-4">
                         <p>Useful links</p>
-                        <ul>
+                        <ul class="useful-links-ul">
                             <li>Home</li>
                             <li>About</li>
                             <li>Portfolio</li>
@@ -133,5 +133,6 @@
 
 
     </form>
+    <script src="Scripts/MyScript.js"></script>
 </body>
 </html>

@@ -2,12 +2,12 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="container-fluid">
+    <div class="container-fluid homepage-banner-area">
         <img class="img-responsive" src="/images/banner-img.jpg" />
+        
         <%--<img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1920%C3%97700&w=1920&h=700" />--%>
     </div>
 
-    
         <div class="container-fluid icon-area">
             <div class="container">
                 <div class="row">
@@ -50,19 +50,16 @@
                 <div class="row">
                     <div class="col-md-8">
                         <div class="divider-sm-white"></div>
-                            <h3>Welcome to Spore</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                                Pellentesque at consectetur ante, sit amet posuere turpis. 
-                                Fusce laoreet in augue sit amet dictum. Mauris vulputate leo at purus iaculis, et faucibus libero pharetra.
-                                In ornare mollis viverra. Morbi blandit mi cursus arcu aliquam, nec fringilla nibh tincidunt.</p>
-                            <p>Quisque rhoncus
-                                ullamcorper tempus. Praesent euismod ornare eros vitae pulvinar. Vivamus malesuada rutrum nunc non pretium. 
-                                Suspendisse suscipit diam in semper rutrum. Morbi ac leo a risus interdum laoreet. </p>
-                            <p class="mar-t-40">Quisque rhoncus
-                                ullamcorper tempus. Praesent euismod ornare eros vitae pulvinar. Vivamus malesuada rutrum nunc non pretium. 
-                                Suspendisse suscipit diam in semper rutrum. Morbi ac leo a risus interdum laoreet. </p>
+                            <h1>Panda Web Design</h1>
+                            <p>Here at Panda, we like to keep things simple. You have a requirement, let's see what we can do.
+                                We take the requirements and offer a preview/design with a quote, free of charge. If you want some changes, not a problem.
+                                Our philosophy is to <strong>keep you in control</strong>. We offer website development as the primary feature.</p>
+                            <p>If you already have a website and you want to update it, we'll be happy to help.
+                                The more information you provide, the better design we can provide.</p>
+                            <p class="mar-t-40">
+                                Feel free to get in touch. We work to your requirements and you pay nothing until the final product is released and online.
                             <p>
-                                <a href="#" class="btn btn-primary">Find out more</a>
+                                <a href="#" class="btn btn-primary">Get in touch</a>
                             </p>
                         </div>
                     <div class="col-md-4">
@@ -172,7 +169,7 @@
                             <div class="services-box">
                                 <h3>SEO</h3>
                                 <div class="divider-black-sm"></div>
-                                <p>Search Engine Optimisation</p>
+                                <p><span>Search Engine Optimisation</span></p>
                                 <p>We build your websites with seo, helping your business to become an online powerhouse 
                                     in search engines.</p>
                             </div>
