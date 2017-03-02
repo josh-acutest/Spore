@@ -4,9 +4,25 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Net;
+using System.Net.Mail;
+
+
 
 namespace Spore
 {
+    public class CustomerEmail
+    {
+        public string name;
+        public string email;
+        public string tel;
+        public string msg;
+
+        
+        
+
+    }
+
     public partial class Contact : Page
     {
         protected void Page_Load(object sender, EventArgs e)

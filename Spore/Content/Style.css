@@ -218,6 +218,12 @@
     margin-top: 15px;
 }
 
+.divider-small-black {
+    height: 25px;
+    width: 100%;
+    background-color: #353535;
+}
+
 .divider-black-sm {
     width: 80%;
     height:2px;
@@ -392,3 +398,30 @@
     padding: 5px;
 }
 
+.contact-form label {
+    margin: 10px 0px;
+}
+
+.contact-form a {
+    margin: 10px 0px;
+}
+
+.large-input {
+    width: 100%;
+    max-width: none !important;
+    clear: both;
+}
+
+@media screen and (max-width: 992px){
+    .tablet-center {
+        text-align: center !important;
+    }
+    .contact-form input {
+        width: 80%;
+        max-width: none !important;
+        clear: both;
+        margin: 0 auto;
+    }
+    
+
+}

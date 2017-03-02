@@ -1,11 +1,9 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Spore._Default" %>
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="Spore._Home" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="container-fluid homepage-banner-area">
         <img class="img-responsive" src="/images/banner-img.jpg" />
-        
-        <%--<img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=1920%C3%97700&w=1920&h=700" />--%>
     </div>
 
         <div class="container-fluid icon-area">

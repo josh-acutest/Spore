@@ -22,6 +22,15 @@ namespace Spore {
         protected global::System.Web.UI.WebControls.TextBox input_Name;
         
         /// <summary>
+        /// input_services control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox input_services;
+        
+        /// <summary>
         /// input_Email control.
         /// </summary>
         /// <remarks>
@@ -38,5 +47,14 @@ namespace Spore {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox input_Tel;
+        
+        /// <summary>
+        /// input_msg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox input_msg;
     }
 }
