@@ -10,6 +10,6 @@
 namespace Spore {
     
     
-    public partial class _Home {
+    public partial class _Default {
     }
 }

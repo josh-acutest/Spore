@@ -21,8 +21,17 @@
     margin-top: 25px;
 }
 
+.mar-tb-25 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
 .mar-t-40 {
     margin-top: 80px;
+}
+
+.mar-t-45 {
+    margin-top: 45px;
 }
 
 .border-right-dot {
@@ -35,6 +44,13 @@
     .header p {
         visibility: hidden;
         height: 5px;
+    }
+    .homepage-banner-area img {
+        visibility: hidden;
+        height: 0px;
+    }
+    .mobile-visible {
+        visibility: visible !important;
     }
 }
 
@@ -387,7 +403,8 @@
 @media screen and (max-width: 975px){
     .icon-area {
         visibility: collapse;
-        height: 1px;
+        height: 0px;
+        padding: 0px;
     }
     .steps-section {
         margin-top: 10px;
@@ -422,6 +439,26 @@
         clear: both;
         margin: 0 auto;
     }
-    
+}
 
+.about-ul li {
+    font-size: 14px;
+}
+
+.about-section-statement {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    color: #353535;
+}
+
+.projects-temp {
+    height: 600px;
+    text-align: center;
+}
+
+.projects-temp p {
+    margin-top: 200px;
+    font-size: 50px;
 }

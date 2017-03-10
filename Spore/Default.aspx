@@ -1,9 +1,9 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="Spore._Home" %>
+﻿<%@ Page Title="Home" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Spore._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="container-fluid homepage-banner-area">
-        <img class="img-responsive" src="/images/banner-img.jpg" />
+        <img class="img-responsive" src="/images/panda_banner.jpg" />
     </div>
 
         <div class="container-fluid icon-area">

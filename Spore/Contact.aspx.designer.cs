@@ -13,6 +13,15 @@ namespace Spore {
     public partial class Contact {
         
         /// <summary>
+        /// reqValName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator reqValName;
+        
+        /// <summary>
         /// input_Name control.
         /// </summary>
         /// <remarks>
@@ -31,6 +40,15 @@ namespace Spore {
         protected global::System.Web.UI.WebControls.TextBox input_services;
         
         /// <summary>
+        /// reqValEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator reqValEmail;
+        
+        /// <summary>
         /// input_Email control.
         /// </summary>
         /// <remarks>
@@ -47,6 +65,15 @@ namespace Spore {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox input_Tel;
+        
+        /// <summary>
+        /// reqValMsg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator reqValMsg;
         
         /// <summary>
         /// input_msg control.

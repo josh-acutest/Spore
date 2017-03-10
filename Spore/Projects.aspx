@@ -3,8 +3,8 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="container">
-        <h5>Check back soon</h5>
+    <div class="container projects-temp">
+        <p class="large-text">This page is under construction. Check back soon.</p>
     </div>
 
 </asp:Content>
